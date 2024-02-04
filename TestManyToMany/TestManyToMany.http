@@ -1,0 +1,6 @@
+@TestManyToMany_HostAddress = http://localhost:5083
+
+GET {{TestManyToMany_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

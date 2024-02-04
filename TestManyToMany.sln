@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestManyToMany", "TestManyToMany\TestManyToMany.csproj", "{44A15E87-4BA4-41CD-A09F-45871B086584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestManyToMany.Domain", "TestManyToMany.Domain\TestManyToMany.Domain.csproj", "{398F3909-1D12-451A-9AF8-BE982E0BE3F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestManyToMany.Infrastructure", "TestManyToMany.Infrastructure\TestManyToMany.Infrastructure.csproj", "{776D840B-F415-4234-A250-4DFD852D8DEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44A15E87-4BA4-41CD-A09F-45871B086584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A15E87-4BA4-41CD-A09F-45871B086584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A15E87-4BA4-41CD-A09F-45871B086584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A15E87-4BA4-41CD-A09F-45871B086584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{398F3909-1D12-451A-9AF8-BE982E0BE3F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398F3909-1D12-451A-9AF8-BE982E0BE3F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398F3909-1D12-451A-9AF8-BE982E0BE3F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398F3909-1D12-451A-9AF8-BE982E0BE3F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{776D840B-F415-4234-A250-4DFD852D8DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776D840B-F415-4234-A250-4DFD852D8DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776D840B-F415-4234-A250-4DFD852D8DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776D840B-F415-4234-A250-4DFD852D8DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
